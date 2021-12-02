@@ -22,6 +22,7 @@ module.exports = {
       opacity: ["disabled"],
       backgroundColor: ["disabled"],
       textColor: ["disabled"],
+      stroke: ["hover"],
     },
   },
   plugins: [],
